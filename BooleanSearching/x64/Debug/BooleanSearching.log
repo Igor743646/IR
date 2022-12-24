@@ -1,0 +1,3 @@
+﻿  BooleanSearching.cpp
+C:\Users\Igor\source\repos\BooleanSearching\BooleanSearching\BooleanSearching.cpp(784,82): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  BooleanSearching.vcxproj -> C:\Users\Igor\source\repos\BooleanSearching\x64\Debug\BooleanSearching.exe
